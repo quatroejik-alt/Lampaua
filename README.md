@@ -1,0 +1,2 @@
+# Lampaua
+Плагін lampa
